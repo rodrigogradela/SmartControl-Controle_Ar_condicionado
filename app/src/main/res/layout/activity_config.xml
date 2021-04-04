@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout"
+    android:padding="24dp"
+    android:layout_height="match_parent"
+    android:background="#1A8DFF"
+    tools:context=".configActivity">
+    <androidx.cardview.widget.CardView
+        android:layout_width="500dp"
+        android:layout_height="173dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/layout_shadow_white"
+        app:cardCornerRadius="8dp">
+        <TextView
+
+            android:layout_width="211dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/alfa_slab_one"
+            android:text="Dados Calculo"
+            android:textColor="#0E78E0"
+            android:textSize="22dp" />
+    <EditText
+        android:id="@+id/edittxttaxa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Taxa Energia" />
+    <EditText
+        android:id="@+id/edittxtkwh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="kWh/mes" />
+    </androidx.cardview.widget.CardView>
+    <RelativeLayout
+        android:id="@+id/rel_anything"
+        android:layout_width="350dp"
+        android:layout_height="31dp"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="-20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/layout_shadow_white"></RelativeLayout>
+
+    <Button
+        android:id="@+id/buttonenv"
+        android:layout_width="298dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="30dp"
+        android:text="Enviar"
+        android:textColor="#FFFFFF"
+        android:textSize="28dp"
+        app:iconTint="#F3EFF0" />
+    <Button
+        android:id="@+id/buttoset"
+        android:layout_width="298dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:text="Reset Aparelho"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        app:iconTint="#F3EFF0" />
+    <Button
+        android:id="@+id/buttoadd"
+        android:layout_width="298dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:text="Add outro AR"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        app:iconTint="#F3EFF0" />
+</LinearLayout>

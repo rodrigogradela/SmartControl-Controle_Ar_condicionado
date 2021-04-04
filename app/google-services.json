@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038407082221",
+    "firebase_url": "https://esp32-83f8e-default-rtdb.firebaseio.com",
+    "project_id": "esp32-83f8e",
+    "storage_bucket": "esp32-83f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038407082221:android:048f6d4e5304e2a530ece4",
+        "android_client_info": {
+          "package_name": "com.example.smartcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038407082221-h620f4ugdbvm0ccdi28ms3at1jd4e478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0ONxrDwl_MOya72Zv2kerS9-NEfixIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038407082221-h620f4ugdbvm0ccdi28ms3at1jd4e478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
