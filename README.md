@@ -1,6 +1,24 @@
 # AirComfort - SmartControl
 
-> Neste projeto é controlado um motor DC e através de um display é informado se o motor está ligado ou desligado.
+> Projeto consiste na criação de um dispositivo de controle inteligente IOT, para aparelhos de Ar-Condicionado Split, fazendo com seja substituido o controle original do aparelho split, foi um Smartfone.
+
+> Caracteristicas e funcionalidades do Dispositivo AirComfort
+ * Fácil instalação
+ * Funcionamento a bateria ou ligado direto a energia eletrica
+ * Funcionamente dependente da bateria por 1 mês
+ * Leitura de temperatura ambiente
+ * Leitura de Humidade do ar ambiente
+
+> Caracteristicas e Funcionalidades do Software SmartControl
+* Fácil instalação
+* Fácil sicronização entre software e dispositivo.
+* Informa temperatura ambiente
+* Informa humidade do ar ambiente
+* Gera calculo de gasto do aparelho split mensal
+* Mostra consumo diario em kwh
+* Mostra tempo de uso
+* Geral grafico de consumo diario.
+ 
 
 
 
@@ -8,11 +26,7 @@
 
 
 
- projeto consiste na criação de um circuito eletrônico gerenciado por um microcontrolador AVR ATMEGA32,
-
-onde ao acionar uma chave, o display LM016L indicará se o motor está em funcionamento ou não. Toda a programação do hardware será feita em assembly.
-
-
+ 
 
 ![](project.png)
 
