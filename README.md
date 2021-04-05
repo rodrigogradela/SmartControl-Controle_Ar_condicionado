@@ -28,11 +28,13 @@
 
  
 
-![](project.png)
 
 
 
 ## Fluxograma Software SmartControl
+
+![](splash.jpg)
+>SplashScreen
 
 
 
