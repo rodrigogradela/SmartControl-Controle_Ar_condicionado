@@ -32,11 +32,11 @@
 
 
 
-## Instalação
+## Fluxograma Software SmartControl
 
 
 
-ATmega32
+
 
 
 
