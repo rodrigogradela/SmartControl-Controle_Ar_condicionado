@@ -5,19 +5,19 @@
 > Caracteristicas e funcionalidades do Dispositivo AirComfort
  * Fácil instalação
  * Funcionamento a bateria ou ligado direto a energia eletrica
- * Funcionamente dependente da bateria por 1 mês
+ * Funcionamento dependente da bateria por 1 mês
  * Leitura de temperatura ambiente
- * Leitura de Humidade do ar ambiente
+ * Leitura de Umidade do ar ambiente
 
 > Caracteristicas e Funcionalidades do Software SmartControl
 * Fácil instalação
 * Fácil sicronização entre software e dispositivo.
 * Informa temperatura ambiente
-* Informa humidade do ar ambiente
+* Informa umidade do ar ambiente
 * Gera calculo de gasto do aparelho split mensal
 * Mostra consumo diario em kwh
 * Mostra tempo de uso
-* Geral grafico de consumo diario.
+* Gera grafico de consumo diario.
  
 
 
