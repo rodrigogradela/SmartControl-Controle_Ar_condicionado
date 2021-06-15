@@ -1,6 +1,6 @@
 # AirComfort - SmartControl
 
-> Projeto consiste na criação de um dispositivo de controle inteligente IOT, para aparelhos de Ar-Condicionado Split, fazendo com seja substituido o controle original do aparelho split, foi um Smartfone.
+> Projeto consiste na criação de um dispositivo de controle inteligente IOT, para aparelhos de Ar-Condicionado Split, fazendo com seja substituido o controle original do aparelho split, foi um Smartphone.
 
 > Caracteristicas e funcionalidades do Dispositivo AirComfort
  * Fácil instalação
@@ -21,7 +21,7 @@
  
 ## Funcionamento Aplicativo SmartControl
 
-<p align="center">
+<p align="left">
   <img width="288" height="640" src="/func.gif">
 </p>
 
