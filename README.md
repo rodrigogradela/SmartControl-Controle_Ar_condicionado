@@ -22,7 +22,7 @@
 ## Funcionamento Aplicativo SmartControl
 
 <p align="center">
-  <img width="460" height="300" src="/func.gif">
+  <img width="288" height="640" src="/func.gif">
 </p>
 
 
