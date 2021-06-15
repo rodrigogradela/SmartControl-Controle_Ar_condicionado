@@ -37,7 +37,7 @@
 >SplashScreen
 
 ![](sincro.jpg)
->SplashScreen
+>Sincronização de Dispositivos
 
 
 
