@@ -36,6 +36,9 @@
 ![](splash.jpg)
 >SplashScreen
 
+![](sincro.jpg)
+>SplashScreen
+
 
 
 
