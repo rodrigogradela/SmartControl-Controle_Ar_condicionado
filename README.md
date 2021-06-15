@@ -39,6 +39,12 @@
 ![](sincro.jpg)
 >Sincronização de Dispositivos
 
+![](dashboard.jpg)
+>Main
+
+![](config.jpg)
+>Configuração de dispositivos
+
 
 
 
