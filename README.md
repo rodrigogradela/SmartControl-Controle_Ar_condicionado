@@ -19,6 +19,11 @@
 * Mostra tempo de uso
 * Gera grafico de consumo diario.
  
+## Funcionamento Aplicativo SmartControl
+
+<p align="center">
+  <img width="460" height="300" src="/func.gif">
+</p>
 
 
 
